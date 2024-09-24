@@ -1,0 +1,14 @@
+/Users/philipanlander/C#Programs/Console/bin/Debug/net8.0/Console
+/Users/philipanlander/C#Programs/Console/bin/Debug/net8.0/Console.deps.json
+/Users/philipanlander/C#Programs/Console/bin/Debug/net8.0/Console.runtimeconfig.json
+/Users/philipanlander/C#Programs/Console/bin/Debug/net8.0/Console.dll
+/Users/philipanlander/C#Programs/Console/bin/Debug/net8.0/Console.pdb
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.dll
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/refint/Console.dll
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.pdb
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/Console.genruntimeconfig.cache
+/Users/philipanlander/C#Programs/Console/obj/Debug/net8.0/ref/Console.dll
